@@ -1,181 +1,172 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:ff2525,35:ff9f1c,70:ffd700,100:6425ff&text=SHOHJAHON&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=WEB%20DEVELOPER%20%7C%20DESIGNER%20%7C%20AI%20CREATOR&descAlignY=60&descSize=16"/>
+<img src="./assets/space-banner.png" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=2000&pause=600&color=FFD700&center=true&vCenter=true&width=700&lines=WELCOME+TO+MY+DIGITAL+WORLD;CREATIVE+WEB+DEVELOPER;BUILDING+THE+FUTURE+WITH+CODE;IDEAS+INTO+REALITY" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=23&duration=2200&pause=700&color=FFD700&center=true&vCenter=true&width=700&lines=HELLO%2C+I'M+SHOHJAHON;WEB+DEVELOPER;NODE.JS+%26+API+SERVER+DEVELOPER;CREATIVE+DESIGNER;BUILDING+THE+FUTURE" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/🔥_CREATIVE-FF2525?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/⚡_INNOVATIVE-FFD700?style=for-the-badge&labelColor=171717"/>
-<img src="https://img.shields.io/badge/🚀_DEVELOPER-6425FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WEB-DEVELOPER-ff3030?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NODE.JS-API%20SERVER-FFD700?style=for-the-badge&labelColor=171717"/>
+<img src="https://img.shields.io/badge/AI-ENTHUSIAST-8A2BE2?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<div align="center">
+# 🔥 ABOUT ME
 
-# 🌌 WELCOME TO MY UNIVERSE
+Salom! Men Shohjahon — Web Developer, dasturchi va dizaynerman.
 
-### 🔴 🔶 🟡 🔷 🟣
+Men zamonaviy web-platformalar, API serverlar, Telegram botlar va kreativ raqamli mahsulotlar yarataman.
 
-*I don't just write code. I create digital experiences.*
-
-</div>
-
-## 👨‍💻 ABOUT ME
-
-Salom! Men Shohjahon — veb dasturlash, kreativ dizayn va sun'iy intellekt texnologiyalari bilan shug‘ullanaman.
-
-Men uchun har bir loyiha — yangi imkoniyat, har bir kod qatori — yangi g‘oya.
-
-- 🔥 Zamonaviy web-saytlar yaratish
-- 🎨 Kreativ UI/UX dizayn
-- 🤖 Sun'iy intellekt va avtomatlashtirish
-- 🚀 Startap loyihalar
-- 💡 Yangi texnologiyalarni o‘rganish
+- 🌐 Frontend Development
+- ⚙️ Backend Development
+- 🟢 Node.js API Server
+- 🐍 Python & Django
+- 🤖 Artificial Intelligence
+- 🎨 UI/UX Design
+- 🚀 Startup Projects
 
 ---
 
+# 🧊 MY TECHNOLOGY UNIVERSE
+
 <div align="center">
-
-# 🧊 MY TECHNOLOGY GALAXY
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,python,django,nodejs,figma,canva,git,github&theme=dark" />
-
-</div>
 
 ### 🔴 FRONTEND
-`HTML` `CSS` `JavaScript` `Bootstrap` `React` `Tilda`
 
-### 🟡 BACKEND
-`Python` `Django` `Node.js`
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react&theme=dark"/>
+
+### 🟡 BACKEND & API DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django&theme=dark"/>
+
+### 🔵 DATABASE & SERVER
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,postman&theme=dark"/>
 
 ### 🟣 DESIGN & TOOLS
-`Figma` `Canva` `Git` `GitHub`
 
-### 🔵 OTHER
-`Telegram Bots` `AI Technologies`
+<img src="https://skillicons.dev/icons?i=figma,canva,git,github,vscode&theme=dark"/>
+
+</div>
 
 ---
 
-<div align="center">
+# ⚡ NODE.JS & API SERVER
+
+Node.js yordamida backend va API tizimlarini yaratishga qiziqaman.
+
+| Texnologiya | Yo‘nalish |
+|---|---|
+| 🟢 Node.js | Backend |
+| 🚀 Express.js | API Development |
+| 🔗 REST API | Server Communication |
+| 🔐 Authentication | User Authentication |
+| 🗄️ Database | Ma'lumotlar bilan ishlash |
+| 📡 HTTP | Request & Response |
+| 🧪 Postman | API Testing |
+
+---
 
 # 💎 FEATURED PROJECTS
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=ff2525"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=ff3030"/>
 
 </div>
 
-<table>
-<tr>
-<td width="50%">
+### 🔴 01 — KUNDALIK
 
-### 🔴 01. KUNDALIK
+<kbd>PRODUCTIVITY PLATFORM</kbd>
 
-Kunlik rejalar va eslatmalar platformasi.
+Kunlik rejalar, budilnik va eslatmalar platformasi.
 
 - 🌍 7 ta til
 - 🎨 4 ta mavzu
-- ⏰ Budilnik va eslatmalar
-- 📱 Telefonga o‘rnatish
+- ⏰ Eslatmalar
+- 📱 Telefonga o‘rnatish imkoniyati
 
-</td>
-<td width="50%">
+### 🟡 02 — KELAJAK MARKAZI
 
-### 🟡 02. KELAJAK MARKAZI
+<kbd>WEB DESIGN</kbd>
 
-Zamonaviy uch tilli veb-sayt.
-
-- 🌐 3 ta til
+- 🌐 Uch tilli sayt
 - 🧊 3D dizayn elementlari
 - ✨ Zamonaviy interfeys
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+### 🔵 03 — WORLD
 
-### 🔵 03. WORLD
+<kbd>IN DEVELOPMENT</kbd>
 
-Bolalar uchun IT va til o‘rganish platformasi.
+Bolalar uchun IT va chet tillarini o‘rganish platformasi.
 
-- 💻 IT ta'lim
-- 🌍 Til o‘rganish
-- 🚀 Ishlab chiqilmoqda
+### 🟣 04 — ABRON.UZ
 
-</td>
-<td width="50%">
-
-### 🟣 04. ABRON.UZ
+<kbd>IN DEVELOPMENT</kbd>
 
 Bizneslar uchun band qilish platformasi.
 
-- 🏢 Biznes xizmatlari
-- 📅 Band qilish tizimi
-- ⚡ Ishlab chiqilmoqda
+---
 
-</td>
-</tr>
-</table>
+# 🌌 MY JOURNEY
+
+- 🏫 Maktabda IT va sun'iy intellekt koordinatori
+- 🎓 Junior IT Academy
+- 🎨 Grafik dizayn kursi
+- 🚀 IT Startup Qarshi 2026 ishtirokchisi
 
 ---
 
+# 📊 GITHUB STATISTICS
+
 <div align="center">
 
-# 📊 GITHUB POWER
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shohjahon-Ui&show_icons=true&theme=radical&hide_border=true&bg_color=080914&title_color=FFD700&icon_color=ff3030"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shohjahon-Ui&show_icons=true&theme=radical&hide_border=true&bg_color=09090f&title_color=FFD700&icon_color=ff4444&text_color=ffffff"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohjahon-Ui&layout=compact&theme=radical&hide_border=true&bg_color=09090f&title_color=FFD700&text_color=ffffff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohjahon-Ui&layout=compact&theme=radical&hide_border=true&bg_color=080914&title_color=FFD700"/>
 
 <br/>
 
-<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=shohjahon-Ui&theme=radical&hide_border=true&background=09090f&ring=FFD700&fire=ff2525&currStreakLabel=FFD700"/>
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=shohjahon-Ui&theme=radical&hide_border=true&background=080914&ring=FFD700&fire=ff3030"/>
 
 </div>
 
 ---
 
-## 🏆 EXPERIENCE & EDUCATION
-
-| Yo‘nalish | Tajriba |
-|---|---|
-| 🏫 IT & AI | Maktabda IT va AI koordinatori |
-| 🎓 Education | Junior IT Academy |
-| 🎨 Design | Grafik dizayn kursi |
-| 🚀 Startup | IT Startup Qarshi 2026 |
-
----
+# ☀️ MY PHILOSOPHY
 
 <div align="center">
 
-# ☀️ MY DIGITAL WORLD
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&duration=2500&pause=700&color=FFB800&center=true&vCenter=true&width=650&lines=THINK+BEYOND+LIMITS;CREATE+YOUR+OWN+UNIVERSE;NEVER+STOP+LEARNING;CODE+YOUR+DREAMS" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=800&color=FFB800&center=true&vCenter=true&width=650&lines=THINK+BIG;CREATE+SOMETHING+AMAZING;NEVER+STOP+LEARNING;BUILD+YOUR+OWN+FUTURE" />
-
-### 🔴 🟡 ✨ 🧊 ⭐ ☀️
+### 🔴 CREATE • 🟡 INNOVATE • 🔵 DEVELOP
 
 </div>
 
-## 📬 CONTACT ME
+---
+
+# 📬 CONTACT
 
 <div align="center">
 
 <a href="https://github.com/shohjahon-Ui">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://t.me/Shojahon2015">
-<img src="https://img.shields.io/badge/TELEGRAM-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:ff2525,40:ffb800,75:6425ff,100:09090f&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:ff3030,50:ffb800,100:6425ff"/>
 
-**© 2026 SHOHJAHON | ALL RIGHTS RESERVED**
+**SHOHJAHON © 2026**
+
+*TURNING IDEAS INTO REALITY.*
 
 </div>
